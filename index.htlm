@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>for you ✨</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+    <div class="contenedor">
+        <div class="corazon" id="corazon"></div>
+        <h1 id="mensaje">¡hi, [baby]! 💖</h1>
+        <p id="submensaje">i love you very very more. ¡you are the best!</p>
+    </div>
+    <script src="animacion.js"></script>
+</body>
+</html>
